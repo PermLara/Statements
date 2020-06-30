@@ -1,0 +1,17 @@
+[
+  {
+    "customer": "MDT",
+    "performance": [
+      { "playId": 1, "audience": 55 },
+      { "playId": 2, "audience": 35 },
+      { "playId": 3, "audience": 40 }
+    ]
+  },
+  {
+    "customer": "MDT_new",
+    "performance": [
+      { "playId": 2, "audience": 25 },
+      { "playId": 3, "audience": 60 }
+    ]
+  }
+]

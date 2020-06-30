@@ -1,0 +1,56 @@
+html {
+  font-size: 0.7vw;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 20px;
+  box-sizing: border-box;
+}
+.container_grey {
+  margin: 0 auto;
+  width: 96rem;
+  height: 87rem;
+  background: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container_white {
+  width: 50rem;
+  height: 47rem;
+  margin: 0 auto;
+  text-align: center;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+form {
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+#select_customer {
+  border: 1px solid grey;
+  font-size: 1.6rem;
+}
+#statement {
+  margin: 0 auto;
+  height: 55%;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-bottom: 2rem;
+  overflow: scroll;
+}
+.w80 {
+  width: 80%;
+}
+.statement_lines {
+  text-align: left;
+  padding-left: 3rem;
+  font-size: 1.6rem;
+}
+.statement_header {
+  font-size: 1.8rem;
+}
+#print_invoice {
+  font-size: 1.6rem;
+}
